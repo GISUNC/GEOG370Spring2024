@@ -43,8 +43,8 @@ var UNCdates = {
             day9:'Exercise: georeference UNC maps', // Test
             day10: 'Tables',// 'Webmaps',
             day11: 'Choropleths', //'Tables',
-            day12: 'Theory Quiz 2',// check date
-            day13: 'Classification Schemes and Ratios',
+            day12: 'Classification Schemes and Ratios',
+            day13: 'Theory Quiz 2',// check date
             day14: 'Apply classification and ratios to your data',
             day15: 'Practical Quiz 2',
             day16: 'Cartography',
