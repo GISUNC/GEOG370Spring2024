@@ -47,10 +47,10 @@ var UNCdates = {
             day13: 'Theory Quiz 2',// check date
             day14: 'Apply classification and ratios to your data',
             day15: 'Practical Quiz 2',
-            day16: 'Cartography',
-            day17: 'Vector Spatial Analysis',//
-            day18: 'Vector Spatial Analysis Practical',
-            day19: 'Introduction to Rasters and to GEE',
+            day16: 'Vector Spatial Analysis',
+            day17: 'Introduction to Rasters and to GEE',//
+            day18: 'Cartography / Vector Spatial Analysis Practice',
+            day19: 'Present your maps HW7',//'Introduction to Rasters and to GEE',
             day20: 'Theory Quiz 3',
             day21: 'Practical Quiz 3',
             day22: 'Intro to remote sensing pt1',
